@@ -79,7 +79,7 @@ const toggleMobileMenu = () => {
                   alt=""
                 />
                 <div
-                  class="absolute -top-2 -right-3 p-1 flex justify-center items-center h-5 w-5 rounded-full bg-lime-600"
+                  class="absolute text-sm -top-2 -right-3 p-1 flex justify-center items-center h-5 w-5 rounded-full bg-lime-600"
                 >
                   0
                 </div>

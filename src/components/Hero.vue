@@ -11,7 +11,7 @@
       class="container mx-auto text-center flex flex-col justify-center items-center py-20 px-10"
     >
       <p>Best Quality Plants</p>
-      <h1 class="text-7xl font-bold my-10">
+      <h1 class="text-2xl md:text-7xl font-bold my-5 md:my-10">
         Amazing Variety Of <br />
         Plants Starting Just $6
       </h1>
@@ -23,8 +23,8 @@
     </div>
   </section>
 
-  <section class="text-center">
-    <div class="grid grid-cols-1 md:grid-cols-5 items-center gap-5 mt-5">
+  <section class="text-center mt-10">
+    <div class="grid grid-cols-1 md:grid-cols-5 items-center gap-5 m-5">
       <div></div>
       <div
         class="bg-gradient-to-tr from-green-200 to-white py-5 rounded-xl shadow-xl"
